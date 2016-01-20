@@ -1,4 +1,8 @@
 # Visual Recognition
+Official documentation is available at http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/visual-recognition/
+
+Official demo https://visual-recognition-demo.mybluemix.net/
+
 ## API Endpoint
 
 https://gateway.watsonplatform.net/visual-recognition-beta/api
